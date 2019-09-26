@@ -1,4 +1,4 @@
-package Hamo;
+package Hamo.lessonone;
 
 /**
  * Created by: Hmayak on Sep, 2019
