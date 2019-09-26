@@ -19,7 +19,6 @@ public class ParzTiv {
     }
 
   static  void giveNextPrime(int n) {
-
         while (!isParz(n)) {
             n++;
         }
