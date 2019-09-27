@@ -22,13 +22,20 @@ public class Calculator {
 
     public static void calculateTheNumbers(double first, char operation, double second) {
         if (operation == '+') {
-            System.out.println(String.valueOf(first) + "+" + String.valueOf(second) + "=" + String.valueOf(first + second));
+            System.out.println(first + "+" + second + "=" + (first + second));
         } else if (operation == '-') {
-            System.out.println(String.valueOf(first) + "-" + String.valueOf(second) + "=" + String.valueOf(first - second));
+            System.out.println(first + "-" + second + "=" + (first - second));
         } else if (operation == '*') {
-            System.out.println(String.valueOf(first) + "*" + String.valueOf(second) + "=" + String.valueOf(first * second));
+            System.out.println(first + "*" + second + "=" + (first * second));
         } else if (operation == '/') {
-            System.out.println(String.valueOf(first) + "/" + String.valueOf(second) + "=" + String.valueOf(first / second));
+            if (second == 0) {
+                System.out.println("The operation cannot be done");
+            } else {
+                System.out.println(first + "/" + second + "=" + (first / second));
+            }
+        } else {
+            System.out.println("Invalid input:");
         }
     }
 }
+

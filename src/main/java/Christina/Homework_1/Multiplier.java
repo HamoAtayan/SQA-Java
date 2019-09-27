@@ -13,9 +13,7 @@ public class Multiplier {
 
     public static void numberMultiplier(int input) {
         for (int i = 1; i <= 9; i++) {
-            System.out.println(String.valueOf(input) + "*" + String.valueOf(i) + "=" + String.valueOf(input * i));
-
+            System.out.println(input + "*" + i + "=" + (input * i));
         }
-
     }
 }
