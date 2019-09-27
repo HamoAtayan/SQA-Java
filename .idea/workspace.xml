@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c942d86-5aec-4e61-a3ff-a657f8eaf90b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/MijinTveriGumar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/Axyusak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/Axyusak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/CalculateFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/CalculateFactorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/Lusin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/Lusin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/ParzTiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/ParzTiv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/PrintAfterSeconds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/PrintAfterSeconds.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,24 +27,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="15" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="16" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="java" value="2082" />
+          <entry key="java" value="2536" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2082" />
+          <entry key="JAVA" value="2536" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -57,15 +52,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/Axyusak.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,14 +83,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+            <state relative-caret-position="375">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/MijinTveriGumar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -195,6 +190,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Hamo/lessonone/PrintAfterSeconds.java" />
         <option value="$PROJECT_DIR$/src/main/java/Hamo/lessonone/ParzTiv.java" />
         <option value="$PROJECT_DIR$/src/main/java/Hamo/lessonone/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Hamo/lessonone/MijinTveriGumar.java" />
       </list>
     </option>
   </component>
@@ -263,7 +259,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569568275075" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569578833463" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -277,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.MijinTveriGumar">
     <configuration name="Axyusak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hamo.lessonone.Axyusak" />
       <module name="Learning" />
@@ -304,8 +300,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hamo.lessonone.IsDouble" />
+    <configuration name="Lusin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hamo.lessonone.Lusin" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -317,8 +313,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lusin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hamo.lessonone.Lusin" />
+    <configuration name="MijinTveriGumar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hamo.lessonone.MijinTveriGumar" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -345,18 +341,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ParzTiv" />
-      <item itemvalue="Application.IsDouble" />
       <item itemvalue="Application.Axyusak" />
       <item itemvalue="Application.Lusin" />
       <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.MijinTveriGumar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MijinTveriGumar" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.ParzTiv" />
         <item itemvalue="Application.Lusin" />
         <item itemvalue="Application.Axyusak" />
-        <item itemvalue="Application.IsDouble" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +372,7 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25906184" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25906184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -385,12 +381,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43604004" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43604004" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.34593993" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.34593993" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32925472" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32925472" />
@@ -501,11 +497,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+        <state relative-caret-position="375">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/MijinTveriGumar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
