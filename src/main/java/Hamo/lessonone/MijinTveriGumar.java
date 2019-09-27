@@ -12,6 +12,7 @@ public class MijinTveriGumar {
     public static void main(String[] args) {
         System.out.println("Type 1st then second numbers");
         mijinGumar(scanner.nextDouble(), scanner.nextDouble());
+
         System.out.println("Type 1st then second numbers");
         mijinTvabanakan(scanner.nextDouble(), scanner.nextDouble());
     }
