@@ -6,11 +6,11 @@ public class ManOnMoon {
 
         System.out.println("Please insert what is your weight on Earth: ");
 
-        double userMass = input.nextDouble();
+        float userMass = input.nextFloat();
 
-        double massOnMoonMultiplicator = 0.17;
+        float massOnMoonMultiplicator = 0.17f;
         
-        double massOnMoon = userMass*massOnMoonMultiplicator;
+        float massOnMoon = userMass*massOnMoonMultiplicator;
         
         System.out.println("Your mass on moon will be equal to: " + massOnMoon);
     }
