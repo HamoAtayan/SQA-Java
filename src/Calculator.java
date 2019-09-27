@@ -36,6 +36,9 @@ public class Calculator {
             System.out.println("Answer is: " + output);
         } else if (operatorType == '/') {
             output = value1 / value2;
+            if (value2 == 0) {
+                System.out.println("You cannot divide numbers to 0! ");
+            }
             System.out.println("Answer is: " + output);
         } else if (operatorType == '-') {
             output = value1 - value2;
