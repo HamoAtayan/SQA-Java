@@ -1,12 +1,16 @@
 package Hamo.lessonone;
 
+import java.util.Scanner;
+
 /**
  * Created by: Hmayak on Sep, 2019
  */
 public class Axyusak {
+static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        printAxyusak(3);
+        System.out.println("Please type number for axyusak:");
+        printAxyusak(scanner.nextInt());
     }
     public static void printAxyusak(int a){
         for (int i = 1; i <= 9; i++) {

@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 public class ParzTiv {
     public static void main(String[] args) {
-        System.out.println("Type you number please");
+        System.out.println("Type your number please: ");
         Scanner sc = new Scanner(System.in);
         int n;
         while((n = sc.nextInt()) != 0) {

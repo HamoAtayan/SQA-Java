@@ -1,11 +1,15 @@
 package Hamo.lessonone;
 
+import java.util.Scanner;
+
 /**
  * Created by: Hmayak on Sep, 2019
  */
 public class CalculateFactorial {
+    static Scanner sc = new Scanner(System.in);
+
     public static void main(String[] args) {
-        calculateFactorial(5);
+        calculateFactorial(sc.nextInt());
     }
 
     public static void calculateFactorial(int i) {
