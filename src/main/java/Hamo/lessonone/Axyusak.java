@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Created by: Hmayak on Sep, 2019
  */
 public class Axyusak {
-static Scanner scanner = new Scanner(System.in);
+static Scanner scanner = new  Scanner(System.in);
 
     public static void main(String[] args) {
         System.out.println("Please type number for axyusak:");

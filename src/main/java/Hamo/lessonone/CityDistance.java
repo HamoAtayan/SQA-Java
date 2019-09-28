@@ -10,7 +10,7 @@ import java.util.Scanner;
  * 2) դրանց միջեւ ընկած միջանկյալ կետը
  */
 public class CityDistance {
-    static Scanner scanner = new Scanner(System.in);
+    static Scanner scanner = new  Scanner(System.in);
     static double d;
 
     public static void main(String[] args) {
