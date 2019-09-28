@@ -1,4 +1,4 @@
-package Christina.Homework_1;
+package Christina.HomeWork_1;
 
 import java.util.Scanner;
 
