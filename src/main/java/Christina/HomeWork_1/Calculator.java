@@ -21,20 +21,25 @@ public class Calculator {
     }
 
     public static void calculateTheNumbers(double first, char operation, double second) {
-        if (operation == '+') {
-            System.out.println(first + "+" + second + "=" + (first + second));
-        } else if (operation == '-') {
-            System.out.println(first + "-" + second + "=" + (first - second));
-        } else if (operation == '*') {
-            System.out.println(first + "*" + second + "=" + (first * second));
-        } else if (operation == '/') {
-            if (second == 0) {
-                System.out.println("The operation cannot be done");
-            } else {
-                System.out.println(first + "/" + second + "=" + (first / second));
+        switch (operation) {
+            case '+':
+                System.out.println(first + "+" + second + "=" + (first + second));
+                break;
+            case '-':
+                System.out.println(first + "-" + second + "=" + (first - second));
+                break;
+            case '*':
+                System.out.println(first + "*" + second + "=" + (first * second));
+                break;
+            case '/': {
+                if (second == 0) {
+                    System.out.println("The operation cannot be done");
+                } else {
+                    System.out.println(first + "/" + second + "=" + (first / second));
+                }
             }
-        } else {
-            System.out.println("Invalid input:");
+            default:
+                System.out.println("Invalid input:");
         }
     }
 }

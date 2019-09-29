@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c942d86-5aec-4e61-a3ff-a657f8eaf90b" name="Default Changelist" comment="5th an 8th exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/NextPrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Christina/Homework_1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Christina/Homework_1/DistanceBetweenCities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/DistanceBetweenCities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Christina/Homework_1/DoubleTypeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/DoubleTypeChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Christina/Homework_1/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/IsPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Christina/Homework_1/MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/MathOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Christina/Homework_1/Multiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/Multiplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Christina/Homework_1/NaturalNumberFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/NaturalNumberFactorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Christina/Homework_1/WaitAndPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/WaitAndPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Christina/Homework_1/WeightOnTheMoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/WeightOnTheMoon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/Calculator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,11 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/NextPrimeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="42" column="67" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
+            <state relative-caret-position="598">
+              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -41,8 +40,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/IsPrime.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/SumOfPrimeNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+              <caret line="23" selection-start-line="5" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -92,15 +100,19 @@
         <option value="$PROJECT_DIR$/src/main/java/Christina/SecondHomeWork/FirstHomeWork/NextPrimeNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/Christina/Homework_1/NextPrimeNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/Christina/FirstHomeWork/NextPrimeNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/sumOfPrimeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/IsPrime.java" />
         <option value="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/NextPrimeNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/SumOfPrimeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/Calculator.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="476" />
+    <option name="x" value="475" />
     <option name="y" value="415" />
     <option name="width" value="1245" />
-    <option name="height" value="674" />
+    <option name="height" value="675" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -109,6 +121,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,8 +173,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,6 +181,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569430390113" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Christina/Homework_1/HomeWork_1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -187,7 +205,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NextPrimeNumber">
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Christina.HomeWork_1.Calculator" />
+      <module name="SQA-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Christina.HomeWork_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DoubleTypeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Christina.HomeWork_1.DoubleTypeChecker" />
       <module name="SQA-Java" />
@@ -214,19 +245,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NaturalNumberFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Christina.HomeWork_1.NaturalNumberFactorial" />
-      <module name="SQA-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Christina.Homework_1.HomeWork_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NextPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Christina.HomeWork_1.NextPrimeNumber" />
       <module name="SQA-Java" />
@@ -240,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitAndPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Christina.HomeWork_1.WaitAndPrint" />
+    <configuration name="SumOfPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Christina.HomeWork_1.SumOfPrimeNumbers" />
       <module name="SQA-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Christina.Homework_1.HomeWork_1.*" />
+          <option name="PATTERN" value="Christina.HomeWork_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,19 +272,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WaitAndPrint" />
-      <item itemvalue="Application.NaturalNumberFactorial" />
       <item itemvalue="Application.MathOperations" />
       <item itemvalue="Application.DoubleTypeChecker" />
       <item itemvalue="Application.NextPrimeNumber" />
+      <item itemvalue="Application.SumOfPrimeNumbers" />
+      <item itemvalue="Application.Calculator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.SumOfPrimeNumbers" />
         <item itemvalue="Application.NextPrimeNumber" />
         <item itemvalue="Application.DoubleTypeChecker" />
         <item itemvalue="Application.MathOperations" />
-        <item itemvalue="Application.NaturalNumberFactorial" />
-        <item itemvalue="Application.WaitAndPrint" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +298,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569307306871</updated>
-      <workItem from="1569646611708" duration="823000" />
+      <workItem from="1569646611708" duration="16364000" />
+      <workItem from="1569706717516" duration="158000" />
+      <workItem from="1569782875327" duration="1271000" />
     </task>
     <task id="LOCAL-00001" summary="First 4 exercises">
       <created>1569563186737</created>
@@ -303,11 +323,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569625310397</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Minor changes">
+      <created>1569647512237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569647512245</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added 6th exercise and SumOfPrimeNumbers">
+      <created>1569705000754</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569705000754</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24388000" />
+    <option name="totallyTimeSpent" value="41358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,18 +353,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21073826" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21610738" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.5739385" />
@@ -342,8 +374,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.43555555" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32796487" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -352,6 +384,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +411,9 @@
     <MESSAGE value="First 4 exercises" />
     <MESSAGE value="5th an 8th exercises" />
     <MESSAGE value="Added exercises 7,9,10 and corrections regarding comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added exercises 7,9,10 and corrections regarding comments" />
+    <MESSAGE value="Minor changes" />
+    <MESSAGE value="Added 6th exercise and SumOfPrimeNumbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 6th exercise and SumOfPrimeNumbers" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/qqq.java" />
@@ -446,17 +482,38 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Christina/SecondHomeWork/FirstHomeWork/Multiplier.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Christina/Homework_1/HomeWork_1/Calculator.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Christina/SecondHomeWork/FirstHomeWork/Calculator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/NextPrimeNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/DoubleTypeChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="42" column="67" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/IsPrime.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/SumOfPrimeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <caret line="23" selection-start-line="5" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/NextPrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Christina/HomeWork_1/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
         </state>
       </provider>
     </entry>
