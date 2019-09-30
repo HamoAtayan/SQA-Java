@@ -21,7 +21,7 @@ public class DistanceBetweenCities {
 
     public static void DistanceCounter(double firstLatitude, double firstLongitude, double secondLatitude, double secondLongitude) {
         double distance = Math.sqrt(Math.pow(firstLongitude - firstLatitude, 2) + Math.pow(secondLongitude - secondLatitude, 2));
-        System.out.println("The distance between 2 cities is " + String.valueOf(distance) + " kms");
+        System.out.println("The distance between 2 cities is " + distance + " kms");
     }
 
     public static void AveragePointCounter(double firstLatitude, double firstLongitude, double secondLatitude, double secondLongitude) {
