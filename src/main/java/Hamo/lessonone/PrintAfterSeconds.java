@@ -3,7 +3,7 @@ package Hamo.lessonone;
 import java.util.Timer;
 
 /**
- * Created by: Hmayak on Sep, 2019
+ * Created by: Hmayak on  Sep, 2019
  */
 public class PrintAfterSeconds {
     //2000ms = 2Seconds
