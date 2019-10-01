@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c942d86-5aec-4e61-a3ff-a657f8eaf90b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lilia/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lilia/CheckIfNumberIsDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lilia/CheckIfNumberIsPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lilia/CitiesDistanceAndMiddlePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lilia/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lilia/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lilia/WeightOnMoon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lilia/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lilia/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lilia/CheckIfNumberIsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lilia/CheckIfNumberIsPrime.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CitiesDistanceAndMiddlePoint">
+  <component name="RunManager" selected="Application.CheckIfNumberIsPrime">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lilia.Calculator" />
       <module name="SQA-Java" />
@@ -121,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckIfNumberIsPrime" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.CitiesDistanceAndMiddlePoint" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.CheckIfNumberIsPrime" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +134,14 @@
       <option name="presentableId" value="Default" />
       <updated>1569307306871</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework_1">
+      <created>1569912650388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569912650388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +156,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework_1" />
   </component>
   <component name="masterDetails">
     <states>

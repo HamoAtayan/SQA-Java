@@ -11,7 +11,7 @@ public class CheckIfNumberIsPrime {
         if (number == 0 || number == 1) {
             System.out.println("NotAPrimeNumber");
         }
-        for (int i = 2; i < number; i++) {
+        for (int i = 2; i < number/2; i++) {
             isPrime=(number % i != 0);
         }
         if (isPrime) {

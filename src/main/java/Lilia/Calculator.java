@@ -13,7 +13,7 @@ public class Calculator {
         double num2 = Num.nextDouble();
         System.out.println("Enter an operator:");
         char operator = Num.next().charAt(0);
-        double result;
+        double result = 0;
         switch (operator) {
             case ('+'):
                 result = num1 + num2;
@@ -25,7 +25,11 @@ public class Calculator {
                 result = num1 * num2;
                 break;
             case ('/'):
-                result = num1 / num2;
+                if (num2 == 0) {
+                    System.out.println("Invalid input");
+                    return;
+                } else
+                    result = num1 / num2;
                 break;
             default:
                 System.out.println("incorrect operator");
