@@ -14,7 +14,7 @@ public class Calculator {
         System.out.println("Enter an operator:");
         char operator = Num.next().charAt(0);
         double result = 0;
-        switch (operator) {
+        switch (operator)  {
             case ('+'):
                 result = num1 + num2;
                 break;
