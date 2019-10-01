@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Gravity {
 
-    private static void calculation(double m) {
-        double f = m * 9.8 * 0.17;                 //F(Gravity) = m(weight) * g(acceleration of free-falling object)
-        System.out.println(f);
+    private static void calculation(double weight) {
+        double m = weight * 0.17;
+        System.out.println(m);
     }
 
     public static void main(String args[]) {
