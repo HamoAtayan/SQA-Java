@@ -1,4 +1,4 @@
-package main.java.gohar;
+package gohar;
 
 import java.util.Scanner;
 
