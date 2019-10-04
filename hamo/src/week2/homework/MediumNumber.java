@@ -1,4 +1,4 @@
-package week2;
+package week2.homework;
 
 /**
  * Created by: Hmayak on Oct, 2019
