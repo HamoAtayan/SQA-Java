@@ -1,6 +1,4 @@
-package Hamo.lessonone;
-
-import java.util.Timer;
+package week1;
 
 /**
  * Created by: Hmayak on Sep, 2019

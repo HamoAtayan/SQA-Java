@@ -1,9 +1,9 @@
-package Hamo.lessonone;
+package week1.lessonone;
 
 import java.util.Scanner;
 
 /**
- * Created by: Hmayak on Sep, 2019
+ * Created by: Hmayak on  Sep, 2019
  */
 public class ParzTiv {
     public static void main(String[] args) {
