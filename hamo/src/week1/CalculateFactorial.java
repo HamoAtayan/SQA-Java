@@ -1,4 +1,4 @@
-package Hamo.lessonone;
+package week1;
 
 import java.util.Scanner;
 
