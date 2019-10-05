@@ -13,9 +13,10 @@ public class Marathon {
     public static void main(String[] args) {
         BubbleSort(times);
         System.out.println("First place  is: " + names[0] + " in " + times[0] + " seconds");
-        System.out.println("Secind place  is: " + names[1] + " in " + times[1] + " seconds");
+        System.out.println("Second place  is: " + names[0] + " in " + times[1] + " seconds");
 
     }
+
 
     public static void BubbleSort(int num[]) {
         int j;
