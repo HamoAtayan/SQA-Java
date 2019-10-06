@@ -1,15 +1,13 @@
-package Hamo.lessonone;
-
-import java.util.Scanner;
+package week1.lessonone;
 
 /**
  * Created by: Hmayak on Sep, 2019
  */
-public class IsPrime {
+public class Test {
+   static int sum = 0;
+
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Please type number:");
-        System.out.println(isParz(sc.nextInt()));
+        sum();
     }
 
     public static boolean isParz(int a) {
@@ -21,4 +19,14 @@ public class IsPrime {
         }
         return isNumberPrime;
     }
+
+    public static void sum() {
+        for (int i = 2; i < 100; i++) {
+            if (isParz(i)) {
+                sum += i;
+            }
+        }
+        System.out.println(sum);
+    }
 }
+

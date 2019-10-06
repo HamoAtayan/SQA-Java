@@ -1,4 +1,4 @@
-package Hamo.lessonone;
+package week1.lessonone;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Created by: Hmayak on Sep, 2019
  */
 public class CalculateFactorial {
-    static Scanner sc = new Scanner(System.in);
+    static Scanner sc = new  Scanner(System.in);
 
     public static void main(String[] args) {
         calculateFactorial(sc.nextInt());
