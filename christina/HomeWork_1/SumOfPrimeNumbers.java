@@ -1,4 +1,4 @@
-package src.HomeWork_1;
+package HomeWork_1;
 
 /**
  * Created by Christina Mnoyan on Sep, 2019
