@@ -1,4 +1,4 @@
-package HomeWork_1;
+package Week1;
 
 /**
  * Created by Christina Mnoyan on Sep, 2019

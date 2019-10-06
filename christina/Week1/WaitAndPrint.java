@@ -1,4 +1,4 @@
-package HomeWork_1;
+package Week1;
 
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
