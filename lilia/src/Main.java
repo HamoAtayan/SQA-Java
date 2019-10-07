@@ -1,6 +1,4 @@
-public class Main {
+package PACKAGE_NAME;
 
-    public static void main(String[] args) {
-        System.out.println("Main for Lilia");
-    }
+public class Main {
 }
