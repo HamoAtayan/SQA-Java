@@ -1,4 +1,4 @@
-package Hamo.lessonone;
+package week1.lessonone;
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Created by: Hmayak on Sep, 2019
  */
 public class Calculator {
-    static Scanner scanner = new Scanner(System.in);
+    static Scanner scanner = new  Scanner(System.in);
 
     public static void main(String[] args) throws IOException {
 calculator();

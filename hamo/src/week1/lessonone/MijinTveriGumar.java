@@ -1,4 +1,4 @@
-package Hamo.lessonone;
+package week1.lessonone;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ import java.util.Scanner;
  * 10. Գրել ծրագիր, որը  կհաշվի մուտքագրված 2 թվերի միջեւ ընկած թվերի գումարը եւ միջին թվաբանականը.
  */
 public class MijinTveriGumar {
-    static Scanner scanner = new Scanner(System.in);
+    static Scanner scanner = new  Scanner(System.in);
 
     public static void main(String[] args) {
         System.out.println("Type 1st then second numbers");
