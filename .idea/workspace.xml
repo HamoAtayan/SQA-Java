@@ -2,149 +2,129 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c942d86-5aec-4e61-a3ff-a657f8eaf90b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/CityDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/CityDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/MijinTveriGumar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/MijinTveriGumar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week1/CanrutyanUj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week1/ParzTiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week1/TablicaUmnojeniya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week1/WaitAndPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week2/ArrayPordz1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week2/ErkchapeMiachapi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week2/KrknvoxTiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week2/Marathon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week2/MaxEvMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week2/MijinTvabanakan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week2/ParzKentZuyg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arshak/Week2/Sortavorel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arshak/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/Axyusak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/CalculateFactorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/CityDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/IsDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/IsPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/Lusin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/MijinTveriGumar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/ParzTiv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hamo/lessonone/PrintAfterSeconds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gohar/CheckDoubleType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gohar/Moon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gohar/Table.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="C:\Users\Arshak\IdeaProjects\SQA-Java\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1538826974">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="java" value="17" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="17" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="16" />
-          <entry key="java" value="2832" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2832" />
-          <entry key="PLAIN_TEXT" value="16" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/Axyusak.java">
+        <entry file="file://$PROJECT_DIR$/Arshak/Week2/Sortavorel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/Lusin.java">
+        <entry file="file://$PROJECT_DIR$/Arshak/Week2/Marathon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/ParzTiv.java">
+        <entry file="file://$PROJECT_DIR$/Arshak/Week2/ErkchapeMiachapi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/Calculator.java">
+        <entry file="file://$PROJECT_DIR$/Arshak/Week2/KrknvoxTiv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/MijinTveriGumar.java">
+        <entry file="file://$PROJECT_DIR$/Arshak/Week2/ParzKentZuyg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+            <state relative-caret-position="201">
+              <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arshak/Week2/MaxEvMin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/CityDistance.java">
+        <entry file="file://$PROJECT_DIR$/Arshak/Week2/MijinTvabanakan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="51">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/IsPrime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/IsDouble.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/CalculateFactorial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/PrintAfterSeconds.java">
+        <entry file="file://$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -158,16 +138,16 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>random</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../cwb-automation-tests" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../aram/ng" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../ng" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../sad-ui-automation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="HomeWork_1" />
       </map>
     </option>
   </component>
@@ -188,18 +168,50 @@
         <option value="$PROJECT_DIR$/src/main/java/Hamo/lessonone/Axyusak.java" />
         <option value="$PROJECT_DIR$/src/main/java/Hamo/lessonone/Lusin.java" />
         <option value="$PROJECT_DIR$/src/main/java/Hamo/lessonone/PrintAfterSeconds.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Hamo/lessonone/ParzTiv.java" />
         <option value="$PROJECT_DIR$/src/main/java/Hamo/lessonone/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Hamo/lessonone/MijinTveriGumar.java" />
         <option value="$PROJECT_DIR$/src/main/java/Hamo/lessonone/CityDistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arshak/HomeWork1/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arshak/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Hamo/lessonone/ParzTiv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arshak/jandam.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arshak/CanrutyanUj.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arshak/TablicaUmnojeniya.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arshak/ParzTiv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arshak/WaitAndPrint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arshak/ArrayPordz1.java" />
+        <option value="$PROJECT_DIR$/Arshak/src/Calculator.java" />
+        <option value="$PROJECT_DIR$/Arshak/src/MutqagrvacTiv2.java" />
+        <option value="$PROJECT_DIR$/Arshak/src/MutqagrvacTiv.java" />
+        <option value="$PROJECT_DIR$/Arshak/src/Sortavorel.java" />
+        <option value="$PROJECT_DIR$/Arshak/src/Book.java" />
+        <option value="$PROJECT_DIR$/Arshak/src/ErkchapeMiachapi.java" />
+        <option value="$PROJECT_DIR$/Arshak/src/ParzKentZuyg.java" />
+        <option value="$PROJECT_DIR$/Arshak/MijinTvabanakan.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week2/MijinTvabanakan.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week1/Calculator.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week1/CanrutyanUj.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week2/ErkchapeMiachapi.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week1/ParzTiv.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week2/Sortavorel.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week1/TablicaUmnojeniya.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week1/WaitAndPrint.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week2/ArrayPordz1.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week2/KrknvoxTiv.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week2/Marathon.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv2.java" />
+        <option value="$PROJECT_DIR$/Arshak/src/Main.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week2/MaxEvMin.java" />
+        <option value="$PROJECT_DIR$/Arshak/Week2/ParzKentZuyg.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="678" />
-    <option name="y" value="12" />
-    <option name="width" value="1553" />
-    <option name="height" value="840" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -209,58 +221,86 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Arshak" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Arshak" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Arshak" type="462c0819:PsiDirectoryNode" />
+              <item name="Week2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Hamo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Hamo" type="462c0819:PsiDirectoryNode" />
-              <item name="lessonone" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569580803933" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Arshak\IdeaProjects\SQA-Java\arshak\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -274,20 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CityDistance">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hamo.lessonone.Calculator" />
-      <module name="Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hamo.lessonone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ParzKentZuyg">
     <configuration name="CityDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hamo.lessonone.CityDistance" />
       <module name="Learning" />
@@ -301,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lusin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hamo.lessonone.Lusin" />
-      <module name="Learning" />
+    <configuration name="MaxEvMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.MaxEvMin" />
+      <module name="SQA-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hamo.lessonone.*" />
+          <option name="PATTERN" value="Week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,12 +354,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParzTiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hamo.lessonone.ParzTiv" />
-      <module name="Learning" />
+    <configuration name="MutqagrvacTiv2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.MutqagrvacTiv2" />
+      <module name="SQA-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hamo.lessonone.*" />
+          <option name="PATTERN" value="Week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParzKentZuyg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.ParzKentZuyg" />
+      <module name="SQA-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,19 +381,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ParzTiv" />
-      <item itemvalue="Application.Lusin" />
-      <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.MijinTveriGumar" />
       <item itemvalue="Application.CityDistance" />
+      <item itemvalue="Application.MutqagrvacTiv2" />
+      <item itemvalue="Application.MaxEvMin" />
+      <item itemvalue="Application.ParzKentZuyg" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParzKentZuyg" />
+        <item itemvalue="Application.MaxEvMin" />
+        <item itemvalue="Application.MutqagrvacTiv2" />
         <item itemvalue="Application.CityDistance" />
         <item itemvalue="Application.MijinTveriGumar" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.ParzTiv" />
-        <item itemvalue="Application.Lusin" />
       </list>
     </recent_temporary>
   </component>
@@ -368,13 +408,20 @@
       <option name="presentableId" value="Default" />
       <updated>1569307306871</updated>
     </task>
+    <task id="LOCAL-00001">
+      <created>1570192081416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570192081416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25906184" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31140938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -382,16 +429,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43604004" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28257686" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.34593993" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32925472" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32925472" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329429" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32796487" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -400,27 +447,16 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/qqq.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22134">
-          <caret line="1356" column="18" selection-start-line="1356" selection-start-column="18" selection-end-line="1356" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Scanner.java" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -437,87 +473,202 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/MijinTveriGumar.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/CityDistance.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/IsDouble.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/ParzTiv.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/IsPrime.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/gohar/Table.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/PrintAfterSeconds.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/CalculateFactorial.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/gohar/CheckDoubleType.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/gohar/Moon.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/Lusin.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/Calculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/Axyusak.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4403">
-          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+        <state relative-caret-position="371">
+          <caret line="352" column="30" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/CalculateFactorial.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="373">
+          <caret line="303" column="19" selection-start-line="303" selection-start-column="19" selection-end-line="303" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/Axyusak.java">
+    <entry file="file://$PROJECT_DIR$/Arshak/src/masiv1" />
+    <entry file="file://$PROJECT_DIR$/Arshak/src/jandam.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/IsDouble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/IsPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/Lusin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="34">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
           <folding>
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#4677#4678#0" expanded="true" />
+            <element signature="e#4714#4715#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/PrintAfterSeconds.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="405">
+          <caret line="166" column="23" selection-start-line="166" selection-start-column="23" selection-end-line="166" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/Arshak/week3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/src/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week1/CanrutyanUj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week1/ParzTiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week1/WaitAndPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week1/TablicaUmnojeniya.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week2/ArrayPordz1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week1/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/ParzTiv.java">
+    <entry file="file://$PROJECT_DIR$/Arshak/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#392#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/MijinTveriGumar.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        <state relative-caret-position="69">
+          <caret line="338" column="29" selection-start-line="338" selection-start-column="29" selection-end-line="338" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#32010#32011#0" expanded="true" />
+            <element signature="e#32095#32096#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hamo/lessonone/CityDistance.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/StrictMath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="154">
+          <caret line="269" column="21" selection-start-line="269" selection-start-column="21" selection-end-line="269" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week2/ErkchapeMiachapi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week2/KrknvoxTiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week2/Marathon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week2/MaxEvMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week2/ParzKentZuyg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week2/Sortavorel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/Week2/MijinTvabanakan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
         </state>
       </provider>
     </entry>
