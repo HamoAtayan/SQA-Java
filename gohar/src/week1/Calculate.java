@@ -1,4 +1,4 @@
-package main.java.gohar;
+package week1;
 
 import java.io.IOException;
 import java.util.Scanner;

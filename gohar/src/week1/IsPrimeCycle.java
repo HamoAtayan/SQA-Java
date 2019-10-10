@@ -1,13 +1,16 @@
-package main.java.gohar;
+package week1;
 
 import java.util.Scanner;
 
+/**
+ * Created by Gohar Farmanyan on October
+ */
 public class IsPrimeCycle {
     public static void main(String[] args) {
         System.out.println("Enter your number");
         Scanner scanner = new Scanner(System.in);
         int n;
-        while((n = scanner.nextInt()) != 0) {
+        while ((n = scanner.nextInt()) != 0) {
             giveNextPrime(n);
         }
     }

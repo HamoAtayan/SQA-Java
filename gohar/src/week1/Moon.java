@@ -1,4 +1,4 @@
-package gohar;
+package week1;
 
 import java.util.Scanner;
 
