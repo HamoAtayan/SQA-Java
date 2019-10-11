@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c942d86-5aec-4e61-a3ff-a657f8eaf90b" name="Default Changelist" comment="Added Max class">
-      <change afterPath="$PROJECT_DIR$/christina/Week2/CombineRepeatedValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/christina/Week2/SortByTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Christina/Week2/RemoveFromArrayByIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Christina/Week2/SortByTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week1/DistanceBetweenCities.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week1/DistanceBetweenCities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week1/DoubleTypeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week1/DoubleTypeChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week1/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week1/IsPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week1/MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week1/MathOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week1/Multiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week1/Multiplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week1/NaturalNumberFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week1/NaturalNumberFactorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week1/NextPrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week1/NextPrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week1/SumOfPrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week1/SumOfPrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week1/WaitAndPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week1/WaitAndPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week1/WeightOnTheMoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week1/WeightOnTheMoon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week2/AverageOfDoubleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/AverageOfDoubleArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week2/CombineRepeatedValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/CombineRepeatedValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week2/FromDoubleArrayToSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/FromDoubleArrayToSingle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week2/FromIntToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/FromIntToArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week2/InputIsBeingContainedInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/InputIsBeingContainedInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week2/MarathonWinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/MarathonWinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week2/MaxAndMinValuesInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/MaxAndMinValuesInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/Week2/SortArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/SortArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/christina/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zori/week_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/zori/week_2/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,28 +41,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/christina/Week2/MaxAndMinValuesInArray.java">
+        <entry file="file://$PROJECT_DIR$/Christina/Week2/MaxAndMinValuesInArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/christina/Week2/CombineRepeatedValues.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+              <caret line="15" column="9" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samvel/Week2/OneFromTwo.java">
+        <entry file="file://$PROJECT_DIR$/Christina/Week2/RemoveFromArrayByIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/samvel/Week2/RemoveElementByIndex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-184" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Christina/Week2/CombineRepeatedValues.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -97,6 +125,7 @@
         <option value="$PROJECT_DIR$/christina/Week2/InputIsBeingContainedInArray.java" />
         <option value="$PROJECT_DIR$/christina/Week2/MaxAndMinValuesInArray.java" />
         <option value="$PROJECT_DIR$/christina/Week2/CombineRepeatedValues.java" />
+        <option value="$PROJECT_DIR$/christina/Week2/RemoveFromArrayByIndex.java" />
       </list>
     </option>
   </component>
@@ -133,12 +162,12 @@
             <path>
               <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="christina" type="462c0819:PsiDirectoryNode" />
+              <item name="Christina" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="christina" type="462c0819:PsiDirectoryNode" />
+              <item name="Christina" type="462c0819:PsiDirectoryNode" />
               <item name="Week2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -323,7 +352,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569307306871</updated>
-      <workItem from="1570825284252" duration="10638000" />
+      <workItem from="1570825284252" duration="11194000" />
     </task>
     <task id="LOCAL-00001" summary="Changes in FromIntToArray class">
       <created>1570830128762</created>
@@ -353,11 +382,18 @@
       <option name="project" value="LOCAL" />
       <updated>1570834812169</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Max class">
+      <created>1570836333341</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570836333341</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15917000" />
+    <option name="totallyTimeSpent" value="16473000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -456,23 +492,10 @@
     <MESSAGE value="Added SortArrays class" />
     <MESSAGE value="Added InputIsBeingContainedInArray class" />
     <MESSAGE value="Added MaxAndMinValuesInArray class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added MaxAndMinValuesInArray class" />
+    <MESSAGE value="Added Max class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Max class" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gohar/src/week1/Moon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gohar/src/week1/IsPrimeCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-82">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gohar/src/week1/AlarmClock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -532,56 +555,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week1/DoubleTypeChecker.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week1/DoubleTypeChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week1/WeightOnTheMoon.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week1/WeightOnTheMoon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week2/AverageOfDoubleArray.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week2/AverageOfDoubleArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week2/MarathonWinner.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week2/MarathonWinner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week2/FromDoubleArrayToSingle.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week2/FromDoubleArrayToSingle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week1/IsPrime.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week1/IsPrime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week1/SumOfPrimeNumbers.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week1/SumOfPrimeNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week1/NextPrimeNumber.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week1/NextPrimeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
           <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
@@ -650,14 +673,14 @@
     <entry file="file://$PROJECT_DIR$/lilia/src/Week_2/EX6_SortArray.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week2/FromIntToArray.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week2/FromIntToArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week2/SortByTypes.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week2/SortByTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-218">
           <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
@@ -674,7 +697,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week2/SortArrays.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week2/SortArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
@@ -697,7 +720,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week2/InputIsBeingContainedInArray.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week2/InputIsBeingContainedInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="56" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="56" />
@@ -722,13 +745,6 @@
         <state relative-caret-position="-5389" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week2/MaxAndMinValuesInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/samvel/Week2/OneFromTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -736,11 +752,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/christina/Week2/CombineRepeatedValues.java">
+    <entry file="file://$PROJECT_DIR$/Christina/Week2/CombineRepeatedValues.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        <state relative-caret-position="867">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Christina/Week2/MaxAndMinValuesInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Christina/Week2/RemoveFromArrayByIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samvel/Week2/RemoveElementByIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184" />
       </provider>
     </entry>
   </component>
