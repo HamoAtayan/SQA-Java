@@ -15,7 +15,7 @@ public class FromIntToArray {
         printInputInArrays(input, arraySize);
     }
 
-    public static void printInputInArrays(int input, int arraySize) {
+    private static void printInputInArrays(int input, int arraySize) {
         if (input == 0) {
             return;
         }
