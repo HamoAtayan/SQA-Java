@@ -16,9 +16,10 @@ public class FromMultidimensionalIntoOneDimensional {
         for (int i = 0; i < multidimenssional[0].length; i++) {
             for (int j = 0; j < multidimenssional[0].length; j++) {
                 int tempo = multidimenssional[0].length + multidimenssional[1].length;
-                if (newTemp <= tempo) {
+                if (newTemp < tempo) {
                     transferedArray[newTemp] = multidimenssional[i][j];
                     System.out.print(transferedArray[newTemp]);
+                    System.out.print(" ");
                     ++newTemp;
                 }
             }
