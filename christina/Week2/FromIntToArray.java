@@ -10,14 +10,16 @@ public class FromIntToArray {
         Scanner sc = new Scanner(System.in);
         System.out.println("Type an int-type number:");
         int input = sc.nextInt();
-        printInputInArrays(input);
+        System.out.println("Type an array size:");
+        int arraySize = sc.nextInt();
+        printInputInArrays(input, arraySize);
     }
 
-    public static void printInputInArrays(int input) {
+    public static void printInputInArrays(int input, int arraySize) {
         if (input == 0) {
             return;
         }
-        int[] arrayFromInputs = new int[5];
+        int[] arrayFromInputs = new int[arraySize];
         int size = 0;
         while (input > 0) {
             int remaining = input % 10;
