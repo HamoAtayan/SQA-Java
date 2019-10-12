@@ -16,9 +16,7 @@ public class EX2_FastestAndSecondRunner {
                 fastest = times[i];
                 fastestIndex = i;
             }
-        }
-        for (int i = 0; i < times.length; i++) {
-            if (times[i] > fastest) {
+            else if (times[i] > fastest) {
                 second = times[i];
                 secondIndex = i;
             }
