@@ -22,7 +22,6 @@ public class Marathon {
         int j;
         boolean flag = true;
         int temp;
-        int newTemp;
         while (flag) {
             flag = false;
             for (j = 0; j < times.length - 1; j++) {
