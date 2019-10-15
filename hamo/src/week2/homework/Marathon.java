@@ -11,27 +11,25 @@ public class Marathon {
             317, 265};
 
     public static void main(String[] args) {
-        BubbleSort(times);
+        bubbleSort(times,names);
         System.out.println("First place  is: " + names[0] + " in " + times[0] + " seconds");
-        System.out.println("Second place  is: " + names[0] + " in " + times[1] + " seconds");
+        System.out.println("Second place  is: " + names[1] + " in " + times[1] + " seconds");
 
     }
 
 
-    public static void BubbleSort(int num[]) {
+    public static void bubbleSort(int [] times,String [] names ) {
         int j;
-        boolean flag = true;   // set flag to true to begin first pass
-        int temp;   //holding variable
-
+        boolean flag = true;
+        int temp;
         while (flag) {
-            flag = false;    //set flag to false awaiting a possible swap
-            for (j = 0; j < num.length - 1; j++) {
-                if (num[j] > num[j + 1])   // change to > for ascending sort
-                {
-                    temp = num[j];                //swap elements
-                    num[j] = num[j + 1];
-                    num[j + 1] = temp;
-                    flag = true;              //shows a swap occurred
+            flag = false;
+            for (j = 0; j < times.length - 1; j++) {
+                if (times[j] > times[j + 1]) {
+                    temp = times[j];
+                    times[j] = times[j + 1];
+                    times[j + 1] = temp;
+                    flag = true;
                 }
             }
         }
