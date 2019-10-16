@@ -6,4 +6,5 @@ package week2.homework2;
 public class MediumSum {
 
 
+
 }
