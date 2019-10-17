@@ -12,24 +12,24 @@ public class Main {
         Person[] persons = new Person[10];
         for (int i = 0; i < persons.length; ++i) {
             persons[i] = new Person(getRandomName(), getRandomCompany(), getRandomAge());
-            persons[i].print();
+            System.out.println(persons[i].toString());
         }
 
         System.out.println(String.format("%s colleagues are:", COMPANIES[0]));
         Person[] colleagues = getColleagues(persons, COMPANIES[0]);
         for (int i = 0; i < colleagues.length; ++i) {
-            colleagues[i].print();
+            System.out.println(colleagues[i].toString());
         }
 
         System.out.println("--------------------------------");
         Person theOldestPerson = getTheOldestPerson(persons);
         System.out.println("The oldest person is:");
-        theOldestPerson.print();
+        System.out.println(theOldestPerson.toString());
 
         System.out.println("--------------------------------");
         Person theYoungestPerson = getTheYoungestPerson(persons);
         System.out.println("The youngest person is:");
-        theYoungestPerson.print();
+        System.out.println(theYoungestPerson.toString());
 
         System.out.println("--------------------------------");
         int mostRepeatedAge = getMostRepeatedAge(persons);
@@ -38,26 +38,26 @@ public class Main {
         System.out.println("--------------------------------");
         Person[] sortedByAge = sortByAgeAscendingOrder(persons);
         for (Person person : sortedByAge) {
-            person.print();
+            System.out.println(person.toString());
         }
 
         System.out.println("--------------------------------");
         Person[] sortedByName = sortByName(persons);
         for (Person person : sortedByName) {
-            person.print();
+            System.out.println(person.toString());
         }
 
         System.out.println("--------------------------------");
         Person[] sortedByCompany = sortByCompany(persons);
         for (Person person : sortedByCompany) {
-            person.print();
+            System.out.println(person.toString());
         }
 
         System.out.println("--------------------------------");
         persons[5] = persons[2];
         Person duplicatePerson = getDuplicatePerson(persons);
         if (null != duplicatePerson){
-            duplicatePerson.print();
+            System.out.println(duplicatePerson.toString());
         } else {
             System.out.println("There is not duplicate persons in the matrix");
         }
@@ -272,11 +272,11 @@ public class Main {
     }
 
     public static String getRandomName() {
-        return NAMES[(int) (Math.random() * 10)];
+        return NAMES[(int) (Math.random() * NAMES.length)];
     }
 
     public static String getRandomCompany() {
-        return COMPANIES[(int) (Math.random() * 5)];
+        return COMPANIES[(int) (Math.random() * COMPANIES.length)];
     }
 
     public static int getRandomAge() {

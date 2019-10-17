@@ -38,7 +38,7 @@ public class Person {
 
     }
 
-    public void print() {
-        System.out.println(String.format("name: %s, age: %d, company: %s", name, age, company));
+    public String toString() {
+        return String.format("name: %s, age: %d, company: %s", name, age, company);
     }
 }
