@@ -12,8 +12,8 @@ public class tripleConcatString {
         String[] array = {"24", "Sa", "BJ"};
         concatArray(array);
 
-        for (int i = 0; i < array.length; i++) {
-            System.out.println(array[i]);
+        for (String s : array) {
+            System.out.println(s);
         }
     }
 }

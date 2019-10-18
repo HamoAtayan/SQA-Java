@@ -13,7 +13,7 @@ public class oneToNFactorialRecursion {
     }
 
     public static void main (String[] args) {
-        int number = 10;
+        int number = 9;
         int mul = multiplyNumbers(number);
         System.out.println("Mul = " + mul);
     }

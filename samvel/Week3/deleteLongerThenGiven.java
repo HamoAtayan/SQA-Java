@@ -3,8 +3,8 @@ package Week3;
 public class deleteLongerThenGiven {
     public static String[] removeLongStrings (String[] arr, int length) {
         int counter = 0;
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i].length() < length) {
+        for (String s : arr) {
+            if (s.length() < length) {
                 counter++;
             }
         }
@@ -25,8 +25,8 @@ public class deleteLongerThenGiven {
         String[] noLong = {"this", "not", "too", "long"};
         String[] removedLongs = removeLongStrings(noLong, 4);
 
-        for (int i = 0; i < removedLongs.length; i++) {
-            System.out.println(removedLongs[i]);
+        for (String removedLong : removedLongs) {
+            System.out.println(removedLong);
         }
     }
 }

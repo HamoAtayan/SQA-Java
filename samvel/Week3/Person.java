@@ -38,10 +38,10 @@ public class Person {
     public static String oldestPerson (Person[] arr) {
         int oldest = 0;
         String oldestName = "";
-        for (int i=0; i<arr.length; i++) {
-            if (arr[i].age > oldest) {
-                oldest = arr[i].age;
-                oldestName = arr[i].name;
+        for (Person person : arr) {
+            if (person.age > oldest) {
+                oldest = person.age;
+                oldestName = person.name;
             }
         }
         System.out.println("The oldest person is: " + oldestName);
@@ -54,10 +54,10 @@ public class Person {
     public static String youngestPerson (Person[] arr) {
         int youngest = arr[0].age;
         String youngestName = "";
-        for (int i=0; i<arr.length; i++) {
-            if (arr[i].age < youngest) {
-                youngest = arr[i].age;
-                youngestName = arr[i].name;
+        for (Person person : arr) {
+            if (person.age < youngest) {
+                youngest = person.age;
+                youngestName = person.name;
             }
         }
         System.out.println("The youngest person is: " + youngestName);
@@ -73,8 +73,8 @@ public class Person {
         for (int i=0; i<(arr.length-1); i++) {
             temp = arr[i].age;
             tempCounter = 0;
-            for (int j = 0; j < arr.length; j++) {
-                if (temp == arr[j].age) {
+            for (Person person : arr) {
+                if (temp == person.age) {
                     tempCounter++;
                 }
                 if (tempCounter > counter) {
@@ -149,8 +149,8 @@ public class Person {
         for (int i=0; i<(arr.length-1); i++) {
             temp = arr[i].name;
             tempCounter = 0;
-            for (int j = 0; j < arr.length; j++) {
-                if (temp.equals(arr[j].name)) {
+            for (Person person : arr) {
+                if (temp.equals(person.name)) {
                     tempCounter++;
                 }
                 if (tempCounter > counter) {
@@ -162,6 +162,8 @@ public class Person {
         System.out.println("Most repeating age in your Persons array is : " + repeatingName);
         return repeatingName;
     }
+
+    //Main
 
     public static void main(String[] args) {
 
@@ -191,8 +193,8 @@ public class Person {
 
         //Check if there are any matches in workplace
 
-        for (int i = 0; i<listOfPersons.length; i++) {
-            listOfPersons[i].doesWorkHere(userWorkplace);
+        for (Person listOfPerson : listOfPersons) {
+            listOfPerson.doesWorkHere(userWorkplace);
         }
 
         //Call function to return oldest Person from array

@@ -12,8 +12,8 @@ public class doublingValueOfString {
         int[] array = {2, 4, 6, 8, 44};
         doubleTheValue(array);
 
-        for (int i = 0; i < array.length; i ++) {
-            System.out.println(array[i]);
+        for (int value : array) {
+            System.out.println(value);
         }
     }
 }

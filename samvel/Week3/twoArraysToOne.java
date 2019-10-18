@@ -8,9 +8,7 @@ public class twoArraysToOne {
         int totalLength = arr1.length + arr2.length;
         int [] combinedArray = new int[totalLength];
 
-        for (int i = 0; i<arr1.length; i++) {
-            combinedArray[i] = arr1[i];
-        }
+        System.arraycopy(arr1, 0, combinedArray, 0, arr1.length);
         for (int i = arr1.length, j = 0; j < arr2.length; j++, i++) {
             combinedArray[i] = arr2[j];
         }
@@ -23,8 +21,8 @@ public class twoArraysToOne {
     public static double averageOfArrays (int[] arr1, int[] arr2) {
         int[] arr3 = combineIntoOneArray(arr1, arr2);
         double sum = 0;
-        for (int i = 0; i < arr3.length; i++) {
-            sum += arr3[i];
+        for (int value : arr3) {
+            sum += value;
         }
         sum = sum / arr3.length;
 
@@ -46,8 +44,8 @@ public class twoArraysToOne {
         int[] combinedArray = combineIntoOneArray(array1, array2);
         double averageSum = averageOfArrays(array1, array2);
 
-        for (int i = 0; i < combinedArray.length; i++) {
-            System.out.println(combinedArray[i]);
+        for (int value : combinedArray) {
+            System.out.println(value);
         }
         System.out.println("average sum is: " + averageSum);
     }

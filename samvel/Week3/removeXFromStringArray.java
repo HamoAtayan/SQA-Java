@@ -12,8 +12,8 @@ public class removeXFromStringArray {
         String[] array = {"x-Factor", "Triplexxx aut", "Here is x and then here is ax"};
         removeX(array);
 
-        for (int i = 0; i<array.length; i++) {
-            System.out.println(array[i]);
+        for (String s : array) {
+            System.out.println(s);
         }
     }
 }

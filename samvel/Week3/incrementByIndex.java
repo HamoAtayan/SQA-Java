@@ -14,8 +14,8 @@ public class incrementByIndex {
 
         incrementByIndex(array, 5);
 
-        for (int i = 0; i < array.length; i++) {
-            System.out.println(array[i] + " ");
+        for (double v : array) {
+            System.out.println(v + " ");
         }
     }
 }
