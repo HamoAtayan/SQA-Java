@@ -6,8 +6,8 @@ public class Main {
     public static void main(String[] args) {
 
 //        exercise 1
-        double[] matrix = createMatrixWithRandomValues(10);
-        System.out.println("Matrix avarage = " + matrixAverage(matrix));
+//        double[] matrix = createMatrixWithRandomValues(10);
+//        System.out.println("Matrix avarage = " + matrixAverage(matrix));
 
 //        exercise 2
         checkTheFirstAndSecondPlaces();
@@ -16,45 +16,45 @@ public class Main {
         splitDigits(5834);
 
 //        exercise 4
-        int[][] matrix = {{2, 5}, {1, 2, 3, 4}, {7, 8, 9}};
-        convertMatrixToVector(matrix);
+//        int[][] matrix = {{2, 5}, {1, 2, 3, 4}, {7, 8, 9}};
+//        convertMatrixToVector(matrix);
 //
 //        exercise 5
-        int[] matrix = createMatrixWithRandomValues(20, 150, 1);
-        int[][] sortedMatrix = sortEvenOddPrimeNumbers(matrix);
-        for (int i = 0; i < sortedMatrix.length; ++i) {
-            for (int j = 0; j < sortedMatrix[i].length; ++j) {
-                System.out.print(sortedMatrix[i][j]+ " ");
-            }
-            System.out.println("");
-        }
+//        int[] matrix = createMatrixWithRandomValues(20, 150, 1);
+//        int[][] sortedMatrix = sortEvenOddPrimeNumbers(matrix);
+//        for (int i = 0; i < sortedMatrix.length; ++i) {
+//            for (int j = 0; j < sortedMatrix[i].length; ++j) {
+//                System.out.print(sortedMatrix[i][j]+ " ");
+//            }
+//            System.out.println("");
+//        }
 
 //        exercise 6
-        int[] descOrder = sortAscendance(10);
-        for (int i = 0; i < 10; i++) {
-            System.out.println(descOrder[i]);
-        }
+//        int[] descOrder = sortAscendance(10);
+//        for (int i = 0; i < 10; i++) {
+//            System.out.println(descOrder[i]);
+//        }
 
 //        exercise 7
-        int[] matrix = createMatrixWithRandomValues(10, 0, 100);
-        System.out.println(checkNumberInMatrix(25, matrix));
+//        int[] matrix = createMatrixWithRandomValues(10, 0, 100);
+//        System.out.println(checkNumberInMatrix(25, matrix));
 
 //        exercise 8
-        printMaxAndMin(20);
+//        printMaxAndMin(20);
 
 //        exercise 9
-        int[] matrix1 = new int[]{1, 2, 3, 4, 2, 6, 7, 8, 9, 10};
-        int[] matrix2 = new int[] {5, 10, 10, 2, 1, 11};
-        int[] repetitive = filterRepetitiveElements(matrix1, matrix2);
-        for (int i = 0; i < repetitive.length; i++) {
-            System.out.print(repetitive[i] + " ");
-        }
+//        int[] matrix1 = new int[]{1, 2, 3, 4, 2, 6, 7, 8, 9, 10};
+//        int[] matrix2 = new int[] {5, 10, 10, 2, 1, 11};
+//        int[] repetitive = filterRepetitiveElements(matrix1, matrix2);
+//        for (int i = 0; i < repetitive.length; i++) {
+//            System.out.print(repetitive[i] + " ");
+//        }
 
 //        exercise 10
-        int[] matrix = deleteElement(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, 5);
-        for (int i = 0; i < matrix.length; i++) {
-            System.out.print(matrix[i] + " ");
-        }
+//        int[] matrix = deleteElement(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, 5);
+//        for (int i = 0; i < matrix.length; i++) {
+//            System.out.print(matrix[i] + " ");
+//        }
     }
 
 //    this is helper method
