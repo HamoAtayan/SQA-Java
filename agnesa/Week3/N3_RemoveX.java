@@ -1,6 +1,6 @@
-package Week2;
+package Week3;
 
-public class RemoveX {
+public class N3_RemoveX {
     public static void main (String[] args) {
         String[] noX = {"x", "xa", "xii"};
         Remove(noX);

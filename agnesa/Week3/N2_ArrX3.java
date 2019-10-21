@@ -1,8 +1,6 @@
-package Week2;
+package Week3;
 
-import java.util.Scanner;
-
-public class StringArray {
+public class N2_ArrX3 {
     public static void main(String[] args) {
         String[] array = {"aa", ". ", "21"};
         arrayX3(array);
@@ -10,7 +8,9 @@ public class StringArray {
 
     public static void arrayX3(String[] array) {
         for (String i : array) {
-            System.out.print(i+i+i);
+            String x = String.format("%s%s%s",i,i,i);
+            System.out.print(x);
         }
     }
 }
+

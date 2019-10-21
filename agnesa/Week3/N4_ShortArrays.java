@@ -1,7 +1,7 @@
-package Week2;
+package Week3;
 import java.util.Scanner;
 
-public class ShortArrays {
+public class N4_ShortArrays {
     public static void main (String[] args) {
         String[] array = {"this", "is", "a", "sentence"};
         shorter (array);

@@ -1,6 +1,6 @@
-package Week2;
+package Week3;
 
-public class DoubleArray {
+public class N1_DoubleArray {
     public static void main(String[] args) {
         double[] numbers = {-1, 21.1, 3, 7, 9};
         doubler(numbers);
