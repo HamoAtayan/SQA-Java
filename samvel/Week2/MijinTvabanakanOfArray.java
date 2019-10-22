@@ -1,4 +1,4 @@
-package Week2;
+package Week3;
 
 public class MijinTvabanakanOfArray {
     public static void main (String[] args){

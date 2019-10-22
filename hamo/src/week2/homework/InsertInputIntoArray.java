@@ -6,31 +6,30 @@ import java.util.Scanner;
  * Created by: Hmayak on Oct, 2019
  */
 public class InsertInputIntoArray {
-    Scanner scanner = new Scanner(System.in);
+    static Scanner scanner = new Scanner(System.in);
     public static int arraySize;
     public static int test;
 
     public static void main(String[] args) {
-        understandArraySize(7564);
-        dxk();
+        System.out.println(converIntIntoArray(scanner.nextInt()));
+
     }
 
-    public static void understandArraySize(int input) {
+    public static int understandArraySize(int input) {
         input = test;
         while (input != 0) {
             input /= 10;
             ++arraySize;
         }
-
+        return arraySize;
     }
 
-    public static void dxk() {
+    public static int[] converIntIntoArray(int input) {
         int array[] = new int[arraySize];
         for (int i = 0; i < arraySize - 1; i++) {
-            int temp = test % 10;
-            array[arraySize - 1] = test % 10;
-            --arraySize;
-            System.out.println(temp);
+            array[i] = input / (int) (Math.pow(10, (arraySize - 1 - i)));
+            input = input % (int) (Math.pow(10, (arraySize - 1 - i)));
         }
+        return array;
     }
 }

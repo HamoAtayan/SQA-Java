@@ -1,11 +1,16 @@
 package week2.homework;
 
+import java.util.Scanner;
+
 /**
  * Created by: Hmayak on Oct, 2019
  */
 public class IsNumberExists {
+    static Scanner scanner = new Scanner((System.in));
+
     public static void main(String[] args) {
-        isExist(1);
+        System.out.println("plese input number to check is Exists :");
+        isExist(scanner.nextInt());
     }
 
     public static void isExist(int number) {
@@ -13,8 +18,6 @@ public class IsNumberExists {
         for (int i = 0; i < array.length - 1; i++) {
             if (array[i] == number) {
                 System.out.println(array[i] + " exists!");
-            } else {
-                System.out.println(array[i] + " not exists!");
             }
         }
     }

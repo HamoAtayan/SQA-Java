@@ -4,3 +4,5 @@ build
 out
 *.iml
 .idea/workspace.xml
+.iml
+.xml

@@ -8,11 +8,11 @@ public class SumBetweenTwoNumbersAndAverage {
         int sum = 0;
         int avg;
         System.out.println("Enter the first number:");
-        int firstnum = num.nextInt();
+        int firstNum = num.nextInt();
         System.out.println("Enter the second number:");
-        int secondnum = num.nextInt();
-        int max = Math.max(firstnum, secondnum);
-        int min = Math.min(firstnum, secondnum);
+        int secondNum = num.nextInt();
+        int max = Math.max(firstNum, secondNum);
+        int min = Math.min(firstNum, secondNum);
         int difference = (max - min) + 1;
         for (int i = min; i <= max; i++) {
             sum = sum + i;
