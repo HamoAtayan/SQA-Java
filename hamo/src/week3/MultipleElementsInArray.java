@@ -9,7 +9,7 @@ public class MultipleElementsInArray {
         String[] elements = {"aa", "bbb", "cccc"};
         String[] multipledArr = new String[elements.length];
         for (int i = 0; i < elements.length; i++) {
-            multipledArr[i] = String.format("%s%s%s", elements[i], elements[i]);
+            multipledArr[i] = String.format("%s%s%s", elements[i], elements[i],elements[i]);
         }
         for (String element : multipledArr)
         {
