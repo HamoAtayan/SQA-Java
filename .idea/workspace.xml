@@ -2,51 +2,156 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c942d86-5aec-4e61-a3ff-a657f8eaf90b" name="Default Changelist" comment="Week 1 Homework 1-5">
-      <change afterPath="$PROJECT_DIR$/agnesa/Additional/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agnesa/Week3/N5_1_ConcatArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agnesa/Week3/N5_2_AvgOfArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agnesa/Week3/N6_Add10percent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agnesa/Week3/N7_Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agnesa/Week3/N8_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vane/src/week_3/Doubling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vane/src/week_3/IncreaseBy10Percent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vane/src/week_3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vane/src/week_3/RemoveX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/ErkchapeMiachapi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/ErkchapeMiachapi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/KrknvoxTiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/KrknvoxTiv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/Marathon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/Marathon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/MaxEvMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/MaxEvMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/MijinTvabanakan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/MijinTvabanakan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/ParzKentZuyg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/ParzKentZuyg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/Sortavorel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/Sortavorel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/AverageOfDoubleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/AverageOfDoubleArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/CombineRepeatedValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/CombineRepeatedValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/FromDoubleArrayToSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/FromDoubleArrayToSingle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/FromIntToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/FromIntToArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/InputIsBeingContainedInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/InputIsBeingContainedInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/MarathonWinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/MarathonWinner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/MaxAndMinValuesInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/MaxAndMinValuesInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/SortArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/SortArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agnesa/Week2/DoubleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/agnesa/Week3/N1_DoubleArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agnesa/Week2/RemoveX.java" beforeDir="false" afterPath="$PROJECT_DIR$/agnesa/Week3/N3_RemoveX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agnesa/Week2/ShortArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/agnesa/Week3/N4_ShortArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agnesa/Week2/StringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/agnesa/Week3/N2_ArrX3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/AlTypesOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/AlTypesOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/DoesContainInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/DoesContainInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/DoubleArrayToSingleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/DoubleArrayToSingleArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/FastestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/FastestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/MaxAndMinOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/MaxAndMinOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/MijinTvabanakanOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/MijinTvabanakanOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/NumberToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/NumberToArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/OneFromTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/OneFromTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/RemoveElementByIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/RemoveElementByIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/SortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vane/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/vane/src/Week_1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vane/DoubleNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/vane/src/Week_1/DoubleNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vane/Moon.java" beforeDir="false" afterPath="$PROJECT_DIR$/vane/src/Week_1/Moon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vane/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/vane/src/Week_1/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vane/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/vane/src/Week_1/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vane/PrimeNumberHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/vane/src/Week_1/PrimeNumberHomework.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2104804567">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="959" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="959" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vane/src/week_2/AverageOfArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vane/src/week_3/Doubling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samvel/Week3/removeXFromStringArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vane/src/week_3/RemoveX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vane/src/week_3/IncreaseBy10Percent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vane/src/Week_1/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samvel/Week3/incrementByIndex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samvel/Week3/doublingValueOfString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vane/src/week_2/Ex5PrimOddEven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vane/src/week_3/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#236#244#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,6 +163,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vane/src/week_3/Person.java" />
+        <option value="$PROJECT_DIR$/vane/src/week_3/Doubling.java" />
+        <option value="$PROJECT_DIR$/vane/src/week_3/RemoveX.java" />
+        <option value="$PROJECT_DIR$/vane/src/week_3/IncreaseBy10Percent.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -65,11 +186,81 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
   <component name="ProjectId" id="1SHJKzetmDhLknOngrgIn8M31OB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="samvel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="samvel" type="462c0819:PsiDirectoryNode" />
+              <item name="Week3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="vane" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="vane" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="vane" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQA-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQA-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="vane" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="week_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570859453135" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571721708158" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vane\IdeaProjects\SQA-Java\vane\src" />
+      <recent name="C:\Users\Vane\IdeaProjects\SQA-Java\vane\Week_1" />
+      <recent name="C:\Users\Vane\IdeaProjects\SQA-Java\vane" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,13 +274,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.N6_Add10percent">
-    <configuration name="N5_1_ConcatArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.N5_1_ConcatArrays" />
+  <component name="RunManager" selected="Application.IncreaseBy10Percent">
+    <configuration name="Doubling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_3.Doubling" />
       <module name="SQA-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Additional.*" />
+          <option name="PATTERN" value="week_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N5_2_AvgOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.N5_2_AvgOfArrays" />
+    <configuration name="IncreaseBy10Percent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_3.IncreaseBy10Percent" />
       <module name="SQA-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.*" />
+          <option name="PATTERN" value="week_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +327,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N8_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.N8_Recursion" />
+    <configuration name="RemoveX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_3.RemoveX" />
       <module name="SQA-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.*" />
+          <option name="PATTERN" value="week_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +341,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.N5_1_ConcatArrays" />
-      <item itemvalue="Application.N5_2_AvgOfArrays" />
       <item itemvalue="Application.N6_Add10percent" />
       <item itemvalue="Application.N7_Fibonacci" />
-      <item itemvalue="Application.N8_Recursion" />
+      <item itemvalue="Application.Doubling" />
+      <item itemvalue="Application.RemoveX" />
+      <item itemvalue="Application.IncreaseBy10Percent" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IncreaseBy10Percent" />
+        <item itemvalue="Application.RemoveX" />
+        <item itemvalue="Application.Doubling" />
         <item itemvalue="Application.N6_Add10percent" />
         <item itemvalue="Application.N7_Fibonacci" />
-        <item itemvalue="Application.N8_Recursion" />
-        <item itemvalue="Application.N5_2_AvgOfArrays" />
-        <item itemvalue="Application.N5_1_ConcatArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +385,9 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6813000" />
+  </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -203,12 +397,82 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26652452" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.054834057" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27666667" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997114" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.39970717" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32796487" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32650074" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3295302" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2624161" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.054834057" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21933623" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.4011544" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -229,6 +493,165 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vane/Week_2/AverageOfArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vane/src/week_2/Ex2DoubleArrayToOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samvel/Week3/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="221" column="39" lean-forward="true" selection-start-line="221" selection-start-column="39" selection-end-line="221" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arshak/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vane/src/week_3/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#236#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vane/src/week_2/Ex5PrimOddEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samvel/Week2/AlTypesOfNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="9" selection-start-line="45" selection-start-column="5" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vane/src/week_2/AscendingDescendingOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vane/src/week_2/AverageOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samvel/Week3/doublingValueOfString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samvel/Week1/IsPrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samvel/Week2/DoubleArrayToSingleArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vane/src/Week_1/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="9" selection-start-line="11" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vane/src/Week_1/MultiplicationTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="9" selection-start-column="6" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vane/src/week_3/Doubling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samvel/Week3/removeXFromStringArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vane/src/week_3/RemoveX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vane/src/Week_1/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samvel/Week3/incrementByIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vane/src/week_3/IncreaseBy10Percent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
