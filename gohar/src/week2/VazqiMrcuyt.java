@@ -2,6 +2,9 @@ package week2;
 
 import java.util.Scanner;
 
+/**
+ * Created by Gohar Farmanyan on October
+ */
 public class VazqiMrcuyt {
     static Scanner scanner = new Scanner(System.in);
     static String nametemp;
