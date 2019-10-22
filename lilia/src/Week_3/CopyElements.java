@@ -11,7 +11,7 @@ public class CopyElements {
         String copy[] = new String[first.length];
         copy = Arrays.copyOf(first, first.length);
         for (int i = 0; i < first.length; ++i) {
-            System.out.print(String.format("[%s]", copy[i] + copy[i] + copy[i]));
+            System.out.print(String.format("[%s%s%s]",copy[i],copy[i],copy[i]));
         }
     }
 }

@@ -9,8 +9,6 @@ public class CombineTwoArraysAndAverage {
         int com[] = new int[first.length + second.length];
 
         fillCom(first, second, com);
-        for (int i = 0; i < com.length; ++i) {
-        }
         System.out.println(Arrays.toString(com));
         System.out.println(avg((first)) + avg((second)));
         System.out.println(avg(com));
@@ -30,8 +28,7 @@ public class CombineTwoArraysAndAverage {
         for (int i = 0; i < array.length; i++) {
             x = x + array[i];
         }
-        double y = (double) x / array.length;
-        return y;
+        return (double) x / array.length;
     }
 }
 
