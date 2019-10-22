@@ -1,4 +1,4 @@
-package main.java.vane;
+package Week_1;
 
 import java.util.Scanner;
 
