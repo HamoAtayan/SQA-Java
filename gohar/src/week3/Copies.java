@@ -13,7 +13,7 @@ public class Copies {
         String[] array2 = new String[array.length];
         for (int i = 0; i<array.length; ++i){
             String cur = array[i];
-            array2[i] = cur.concat(cur).concat(cur);
+            array2[i] = String.format("%s%s%s", cur, cur,cur);
             System.out.println(array2[i]);
         }
     }
