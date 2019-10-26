@@ -173,7 +173,7 @@ public class Main {
         return Person.cut(colleagues, colleguesIndex);
     }
 
-//    exercise 9.2
+    //    exercise 9.2
     public static Person getTheOldestPerson(Person[] persons) {
         Person theOldestPerson = persons[0];
         for (int i = 0; i < persons.length; i++) {
@@ -184,7 +184,7 @@ public class Main {
         return theOldestPerson;
     }
 
-//    exercise 9.3
+    //    exercise 9.3
     public static Person getTheYoungestPerson(Person[] persons) {
         Person theYoungestPerson = persons[0];
         for (int i = 0; i < persons.length; i++) {
@@ -195,7 +195,7 @@ public class Main {
         return theYoungestPerson;
     }
 
-//    exercise 9.4
+    //    exercise 9.4
     public static int getMostRepeatedAge(Person[] persons) {
         int maxAge = persons[0].getAge();
         for (Person person : persons) {
@@ -217,7 +217,7 @@ public class Main {
         return mostRepeatedAge;
     }
 
-//    exercise 9.5
+    //    exercise 9.5
     public static Person[] sortByAgeAscendingOrder(Person[] persons) {
         for (int i = 0; i < persons.length-1; ++i) {
             for (int j = i + 1; j < persons.length; ++j) {
@@ -231,7 +231,7 @@ public class Main {
         return persons;
     }
 
-//    exercise 9.6
+    //    exercise 9.6
     public static Person[] sortByName(Person[] persons) {
         for (int i = 0; i < persons.length - 1; i++) {
             for (int j = i + 1; j < persons.length; j++) {
@@ -245,7 +245,7 @@ public class Main {
         return persons;
     }
 
-//    exercise 9.7
+    //    exercise 9.7
     public static Person[] sortByCompany(Person[] persons) {
         for (int i = 0; i < persons.length - 1; i++) {
             for (int j = i + 1; j < persons.length; j++) {
@@ -259,7 +259,7 @@ public class Main {
         return persons;
     }
 
-//    exercise 9.8
+    //    exercise 9.8
     public static Person getDuplicatePerson(Person[] persons) {
         for (int i = 0; i < persons.length - 1; ++i) {
             for (int j = i + 1; j <persons.length; ++j) {
