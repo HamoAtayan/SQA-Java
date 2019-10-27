@@ -1,8 +1,8 @@
 package src.Week_3.Person;
 
 public class personRepo {
-    static String[] companies = {"Chargoon", "Webb", "Google", "Microsoft", "Apple", "Raddit"};
-    static String[] names = {"Lilia", "Jack", "Jennifer", "Joseph", "sherlock", "Sarah"};
+    static String[] companies = {"Pixar","Webb", "Google", "Microsoft", "Apple", "Picsart"};
+    static String[] names = {"Alan","Bradley", "Carol", "Drake", "Fabio", "Gary"};
 
 
         public static person[] getData() {
@@ -11,7 +11,7 @@ public class personRepo {
                 person person = new person();
                 person.name = names[(int) (Math.random() * 6)];
                 person.company = companies[(int) (Math.random() * 6)];
-                person.age = (int) (Math.random() * 10);
+                person.age = (int) (Math.random() * 100);
                 persons[i] = person;
             }
             return persons;
