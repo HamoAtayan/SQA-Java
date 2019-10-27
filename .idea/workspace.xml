@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c942d86-5aec-4e61-a3ff-a657f8eaf90b" name="Default Changelist" comment="Week 1 : 8 Exercises&#10;Week 2 : 6 Exercises">
-      <change afterPath="$PROJECT_DIR$/lilia/src/Week_2/EX3_TurnInputIntoArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lilia/src/Week_3/Person/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lilia/src/Week_3/Person/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lilia/src/Week_3/Person/personAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lilia/src/Week_3/Person/personRepo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,12 +49,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Week_3.Person.Main" />
+    <configuration name="EX6_SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Week_2.EX6_SortArray" />
       <module name="SQA-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Week_3.Person.*" />
+          <option name="PATTERN" value="src.Week_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N5_2_AvgOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.N5_2_AvgOfArrays" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Week_3.Person.Main" />
       <module name="SQA-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.*" />
+          <option name="PATTERN" value="src.Week_3.Person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,19 +115,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.N5_2_AvgOfArrays" />
       <item itemvalue="Application.N6_Add10percent" />
       <item itemvalue="Application.N7_Fibonacci" />
       <item itemvalue="Application.N8_Recursion" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.EX6_SortArray" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EX6_SortArray" />
         <item itemvalue="Application.N6_Add10percent" />
         <item itemvalue="Application.N7_Fibonacci" />
         <item itemvalue="Application.N8_Recursion" />
-        <item itemvalue="Application.N5_2_AvgOfArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571132974022</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Week 3 : Exercise 9 (Person class)">
+      <created>1572190922136</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572190922136</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -190,7 +191,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Week 1 Homework 1-5" />
     <MESSAGE value="Week 2 Homework 1-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 2 Homework 1-4" />
+    <MESSAGE value="Week 3 : Exercise 9 (Person class)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 3 : Exercise 9 (Person class)" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
