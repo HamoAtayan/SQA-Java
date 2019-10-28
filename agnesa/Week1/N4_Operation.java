@@ -1,7 +1,7 @@
 package Week1;
 import java.util.Scanner;
 
-public class Operation {
+public class N4_Operation {
     public static void main (String[] args) {
 
         Scanner num = new Scanner (System.in);
