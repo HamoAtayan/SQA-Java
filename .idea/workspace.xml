@@ -1,46 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c942d86-5aec-4e61-a3ff-a657f8eaf90b" name="Default Changelist" comment="Week 1 Homework 1-5">
-      <change afterPath="$PROJECT_DIR$/agnesa/Additional/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agnesa/Week3/N5_1_ConcatArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agnesa/Week3/N5_2_AvgOfArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agnesa/Week3/N6_Add10percent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agnesa/Week3/N7_Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agnesa/Week3/N8_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/ErkchapeMiachapi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/ErkchapeMiachapi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/KrknvoxTiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/KrknvoxTiv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/Marathon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/Marathon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/MaxEvMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/MaxEvMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/MijinTvabanakan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/MijinTvabanakan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/MutqagrvacTiv2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/ParzKentZuyg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/ParzKentZuyg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arshak/Week2/Sortavorel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arshak/Week2/Sortavorel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/AverageOfDoubleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/AverageOfDoubleArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/CombineRepeatedValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/CombineRepeatedValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/FromDoubleArrayToSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/FromDoubleArrayToSingle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/FromIntToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/FromIntToArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/InputIsBeingContainedInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/InputIsBeingContainedInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/MarathonWinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/MarathonWinner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/MaxAndMinValuesInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/MaxAndMinValuesInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christina/Week2/SortArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Christina/Week2/SortArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agnesa/Week2/DoubleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/agnesa/Week3/N1_DoubleArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agnesa/Week2/RemoveX.java" beforeDir="false" afterPath="$PROJECT_DIR$/agnesa/Week3/N3_RemoveX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agnesa/Week2/ShortArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/agnesa/Week3/N4_ShortArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agnesa/Week2/StringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/agnesa/Week3/N2_ArrX3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/AlTypesOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/AlTypesOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/DoesContainInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/DoesContainInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/DoubleArrayToSingleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/DoubleArrayToSingleArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/FastestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/FastestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/MaxAndMinOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/MaxAndMinOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/MijinTvabanakanOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/MijinTvabanakanOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/NumberToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/NumberToArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/OneFromTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/OneFromTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/RemoveElementByIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/RemoveElementByIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samvel/Week2/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/samvel/Week2/SortArray.java" afterDir="false" />
+    <list default="true" id="6c942d86-5aec-4e61-a3ff-a657f8eaf90b" name="Default Changelist" comment="Week 1 : 8 Exercises&#10;Week 2 : 6 Exercises">
+      <change beforePath="$PROJECT_DIR$/lilia/src/Week_2/EX3_TurnInputIntoArray.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +28,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1SHJKzetmDhLknOngrgIn8M31OB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570859453135" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -83,13 +48,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.N6_Add10percent">
-    <configuration name="N5_1_ConcatArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.N5_1_ConcatArrays" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="EX6_SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Week_2.EX6_SortArray" />
       <module name="SQA-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Additional.*" />
+          <option name="PATTERN" value="src.Week_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N5_2_AvgOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.N5_2_AvgOfArrays" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Week_3.Person.Main" />
       <module name="SQA-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.*" />
+          <option name="PATTERN" value="src.Week_3.Person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +115,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.N5_1_ConcatArrays" />
-      <item itemvalue="Application.N5_2_AvgOfArrays" />
       <item itemvalue="Application.N6_Add10percent" />
       <item itemvalue="Application.N7_Fibonacci" />
       <item itemvalue="Application.N8_Recursion" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.EX6_SortArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EX6_SortArray" />
         <item itemvalue="Application.N6_Add10percent" />
         <item itemvalue="Application.N7_Fibonacci" />
         <item itemvalue="Application.N8_Recursion" />
-        <item itemvalue="Application.N5_2_AvgOfArrays" />
-        <item itemvalue="Application.N5_1_ConcatArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571132974022</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Week 3 : Exercise 9 (Person class)">
+      <created>1572190922136</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572190922136</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Week 1 : 8 Exercises&#10;Week 2 : 6 Exercises">
+      <created>1572191126869</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572191126869</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -219,7 +198,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Week 1 Homework 1-5" />
     <MESSAGE value="Week 2 Homework 1-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 2 Homework 1-4" />
+    <MESSAGE value="Week 3 : Exercise 9 (Person class)" />
+    <MESSAGE value="Week 1 : 8 Exercises&#10;Week 2 : 6 Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 1 : 8 Exercises&#10;Week 2 : 6 Exercises" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -229,21 +210,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.19391635" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
