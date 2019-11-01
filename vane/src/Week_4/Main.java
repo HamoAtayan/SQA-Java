@@ -9,5 +9,7 @@ public class Main {
     public static void main(String[] args) {
         Book[] books = BookRepository.getData();
         System.out.println(Arrays.toString(books));
+        System.out.println();
+        System.out.println(Arrays.toString(Api.getBooksOfAuthor(books, "J.K. Rowling")));
     }
 }
