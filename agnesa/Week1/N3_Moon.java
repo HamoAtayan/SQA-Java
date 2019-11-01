@@ -1,7 +1,7 @@
 package Week1;
 import java.util.Scanner;
 
-public class Moon {
+public class N3_Moon {
     public static void main (String[] args) {
 
         Scanner weight = new Scanner (System.in);

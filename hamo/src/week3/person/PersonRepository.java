@@ -4,8 +4,8 @@ package week3.person;
  * Created by: Hmayak on Oct, 2019
  */
 public class PersonRepository {
-    static String[] companies = {"Webb Fontaine", "AGS", "Zero", "Google"};
-    static String[] names = {"Lilia", "Smbat", "Vahram", "Lilit"};
+    static String[] companies = {"Webb Fontaine", "EGS", "Zero", "Google", "Amazon","FaceBook"};
+    static String[] names = {"Lilia", "Smbat", "Vahram", "Lilit","Ashot","Vaxo","Arman","Hamo"};
 
     public static Person[] getData() {
 

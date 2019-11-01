@@ -18,10 +18,8 @@ public class Increment {
         System.out.println(String.format("The result is: %S", incrementIndex(array, num2)));
     }
 
-    static double incrementIndex(int array1[], int value) {
-        double j = 0;
-        j = array1[value] * 1.1;
-        return j;
+    static double incrementIndex(int array1[], int index) {
+        return array1[index] * 1.1;
     }
 }
 
