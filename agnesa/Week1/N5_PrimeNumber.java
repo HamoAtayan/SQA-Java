@@ -1,6 +1,6 @@
 package Week1;
 import java.util.Scanner;
-public class PrimeNumber {
+public class N5_PrimeNumber {
     public static void main (String[] args) {
 
         Scanner num = new Scanner (System.in);
