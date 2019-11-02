@@ -12,8 +12,6 @@ public class Book {
     private int pages;
     private String releaseDate;
 
-
-
     public void setAuthor(String author) {
         this.author = author;
     }
