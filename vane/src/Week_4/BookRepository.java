@@ -17,6 +17,7 @@ public class BookRepository {
             rowlingBook.setAuthor(autors[0]);
             rowlingBook.setTitle(rowlingBooks[i]);
             rowlingBook.setPages();
+            rowlingBook.getReleaseDate();
             books[i] = rowlingBook;
         }
         return books;
@@ -29,6 +30,7 @@ public class BookRepository {
             book.setAuthor(autors[1]);
             book.setTitle(dumasBooks[i]);
             book.setPages();
+            book.getReleaseDate();
             books[i] = book;
         }
         return books;
@@ -41,6 +43,7 @@ public class BookRepository {
             book.setAuthor(autors[2]);
             book.setTitle(shakespeareBooks[i]);
             book.setPages();
+            book.getReleaseDate();
             books[i] = book;
         }
         return books;

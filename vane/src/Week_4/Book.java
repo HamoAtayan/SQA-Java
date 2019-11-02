@@ -1,5 +1,6 @@
 package Week_4;
 
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
@@ -9,7 +10,8 @@ public class Book {
     private String title;
     private String author;
     private int pages;
-    private Date releaseDate;
+    private String releaseDate;
+
 
 
     public void setAuthor(String author) {
@@ -36,8 +38,8 @@ public class Book {
         return pages;
     }
 
-    public Date getReleaseDate() {
-        this.releaseDate = new java.util.Date();
+    public String getReleaseDate() {
+        releaseDate = new SimpleDateFormat("dd/MM/yyyy").format(new Date());
         return releaseDate;
     }
 
